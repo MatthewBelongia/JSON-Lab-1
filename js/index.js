@@ -17,7 +17,7 @@ window.onload = function()
 	canvas.width = W;
 	canvas.height = H;
 
-	//console.log("my color request: "+colorsArray);
+	console.log("my color request: "+colorsArray);
 
 	/*===============Box class=================================*/
 	function Box(_x, _y)
